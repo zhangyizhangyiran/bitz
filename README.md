@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bitz策略机器人
 
 操作步骤
@@ -25,3 +26,6 @@
 4:结束
 
 ![Alt text](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG35.png)
+=======
+# bitz
+>>>>>>> bc87129ec016f1584124d13c2090aec51d4ae05d
