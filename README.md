@@ -19,7 +19,7 @@
 
 **第二步：开始**  
 
-本机器人使用的是Handler轮询的方式进行做事,点击开始即可([操作1图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG32.png),[操作2图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG36.png))
+本机器人使用的是Handler轮询的方式进行做事,点击开始即可([操作图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG34.png))
 
 
 
