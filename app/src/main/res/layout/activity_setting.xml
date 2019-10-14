@@ -42,16 +42,14 @@
             android:layout_height="wrap_content"
             android:text="公钥"
             android:textSize="@dimen/sp_16" />
-        <!--7d082c4f4a4bfd80ae84defaa5f7269d-->
 
-        <!--807dd790dc3db70f7d5cac86e1770c23-->
 
         <EditText
             android:id="@+id/activity_setting_ed_gongyao"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="30dp"
-            android:text="807dd790dc3db70f7d5cac86e1770c23" />
+            android:text="" />
 
     </LinearLayout>
 
@@ -69,15 +67,14 @@
             android:text="私钥"
             android:textSize="@dimen/sp_16" />
 
-        <!--3w1oFZHoWEBeEbY1FJ6SZG0VCXW7rekfTOUCFpZRi2pcdQB0bHqViOFD3bUZCIsU-->
-        <!--lIVUg6TKBTisHfc1c5X4dJhpEd3XJDo2JY2YO5dOuOd2jG0GCi95G9PvgX9ERkRE-->
+
 
         <EditText
             android:id="@+id/activity_setting_ed_siyao"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="30dp"
-            android:text="lIVUg6TKBTisHfc1c5X4dJhpEd3XJDo2JY2YO5dOuOd2jG0GCi95G9PvgX9ERkRE" />
+            android:text="" />
 
     </LinearLayout>
 
