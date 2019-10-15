@@ -1,5 +1,5 @@
 # BitZ策略机器人
-![机器人界面](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG31.png)
+![机器人界面](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG43.jepg)
 
 大家好,作为数字货币资深的爱好者,平时就喜欢研究各个数字货币交易所,研究如何薅羊毛,[Bitz](https://swap.bitz.top/trade)作为数字货币交易所属于第一档行列,所以平时就喜欢研究他们的合约市场深度,根据自己以往的经验,总结出了一套薅maker费的一套策略机器人,开源给大家一起学习,研究，共同致富！！！
 
