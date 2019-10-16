@@ -11,6 +11,8 @@
 使用交易API前，请在用户中心创建API，获取您的API Key和Secret，并设置API的IP访问限制。
 ([操作1图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG31.png),[操作2图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG37.png))
 
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG47.png) ![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG48.png)
+
 
 **第二步：配置策略**  
 
