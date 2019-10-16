@@ -25,13 +25,12 @@
 
 本机器人使用的是Handler轮询的方式进行做事,点击开始即可
 
-([操作图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG34.png))
-
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG54.png)
 
 
 **第四步：结束**
 
-点击结束机器人即停止([操作图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG35.png))
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG55.png)
 
 
 ## 联系方式
