@@ -16,8 +16,10 @@
 
 **第二步：配置策略**  
 
-本策略可以配置每次下单的张数,下单的频率，委托单的数量,以及杠杆倍数，这是一个基础配置后期可能会陆续添加其它策略,供币友们参考。([操作图1戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG32.png),[操作图2戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG36.png))
+本策略可以配置每次下单的张数,下单的频率，委托单的数量,以及杠杆倍数，这是一个基础配置后期可能会陆续添加其它策略,供币友们参考。
 
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG50.png) 
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG51.png)
 
 **第三步：开始**  
 
