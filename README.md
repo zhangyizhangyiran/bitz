@@ -33,6 +33,20 @@
 ![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG55.png)
 
 
+
+## 代码集成
+本代码完全开源，通过AndroidStudio等代码编辑器通过Git拉取下来即可使用,如果代码依赖过程中需要翻墙的请自行寻找梯子。[梯子](https://lmy9go.com/ss)
+
+
+
+## 操作提示
+
+1:应用退出时策略就会清除，再次打开需重新配置策略，后期将完善策略保存。
+
+2:已平仓仓位盈亏显示的是最近20条的数据。
+
+
+
 ## 联系方式
 
 QQ：1258412192(bitz_maker)
