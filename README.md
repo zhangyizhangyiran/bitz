@@ -9,9 +9,9 @@
  
  BitZ为您提供了一套简单又强大的[API](https://apidoc.bitz.top/cn/)接口，帮助您快速、高效的获取行情和进行交易。
 使用交易API前，请在用户中心创建API，获取您的API Key和Secret，并设置API的IP访问限制。
-([操作1图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG31.png),[操作2图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG37.png))
 
-![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG47.png) ![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG48.png)
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG47.png) 
+![MacDown logo](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG49.png)
 
 
 **第二步：配置策略**  
@@ -19,13 +19,13 @@
 本策略可以配置每次下单的张数,下单的频率，委托单的数量,以及杠杆倍数，这是一个基础配置后期可能会陆续添加其它策略,供币友们参考。([操作图1戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG32.png),[操作图2戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG36.png))
 
 
-**第二步：开始**  
+**第三步：开始**  
 
 本机器人使用的是Handler轮询的方式进行做事,点击开始即可([操作图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG34.png))
 
 
 
-**第二步：结束**
+**第四步：结束**
 
 点击结束机器人即停止([操作图戳这](https://github.com/zhangyizhangyiran/bitz/blob/master/imag/WechatIMG35.png))
 
